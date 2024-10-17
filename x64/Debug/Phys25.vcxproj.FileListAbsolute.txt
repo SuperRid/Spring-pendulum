@@ -1,0 +1,8 @@
+D:\Чм\Phys25\x64\Debug\Phys25.vcxproj.AssemblyReference.cache
+D:\Чм\Phys25\x64\Debug\Phys25.MyForm.resources
+D:\Чм\Phys25\x64\Debug\Phys25.vcxproj.GenerateResource.cache
+D:\Чм\Phys25\x64\Debug\Phys25.exe
+D:\Учеба\Чм\Phys25\x64\Debug\Phys25.vcxproj.AssemblyReference.cache
+D:\Учеба\Чм\Phys25\x64\Debug\Phys25.MyForm.resources
+D:\Учеба\Чм\Phys25\x64\Debug\Phys25.vcxproj.GenerateResource.cache
+D:\Учеба\Чм\Phys25\x64\Debug\Phys25.exe
